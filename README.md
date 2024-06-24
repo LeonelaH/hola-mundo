@@ -10,4 +10,4 @@ nueva actividad
 
 finalizando con github
 
-ultima modificacion y aplicamos comando git pull
+ultima modificacion y aplicamos comando git pull y git fetch
